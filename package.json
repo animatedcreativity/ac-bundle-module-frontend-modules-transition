@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-frontend-modules-transition",
+  "version": "0.0.2",
+  "description": "frontend/modules/transition.js: A module bundled by ac-bundle-module.",
+  "main": "frontend/modules/transition.js",
+  "scripts": {
+    "start": "node frontend/modules/transition.js"
+  },
+  "keywords": [
+    "frontend/modules/transition.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-frontend-modules-transition/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
